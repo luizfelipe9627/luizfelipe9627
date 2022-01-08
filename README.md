@@ -1,11 +1,14 @@
 <h2>Olá! Seja muito bem vindo(a) ao meu perfil no GitHub.</h2>
 
+<div align=right>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=luizfelipe9627" background="#8844ee" alt="Visitas">
+</div>
+
 <div>
   <a href="https://github.com/luizfelipe9627">
   <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=luizfelipe9627&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipe9627&layout=compact&langs_count=7&theme=react" />
 </div>
-  
 <br>
 
 <div  align="center"> 
