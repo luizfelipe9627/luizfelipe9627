@@ -4,6 +4,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=luizfelipe9627" background="#8844ee" alt="Visitas">
 </div>
 
+<br>
 
 <div>
   <a href="https://github.com/luizfelipe9627">
