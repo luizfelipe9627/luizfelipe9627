@@ -5,6 +5,12 @@
 </div>
   
 <br>
+  
+<div> 
+  <a href="https://www.linkedin.com/in/luizfelipe9627/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+  
+<br>
 
 <div>
   <a href="https://github.com/luizfelipe9627">
