@@ -1,8 +1,10 @@
 <h2>Olá! Me chamo <a href="https://www.linkedin.com/in/luizfelipe9627/" title="Linkedin do Luiz Felipe"><i>Luiz Felipe</i></a>.<br>Seja muito bem vindo(a) ao meu perfil.<h2>
-
+  
 <div align=right>
   <img src="https://visitor-badge.glitch.me/badge?page_id=luizfelipe9627" background="#8844ee" alt="Visitas">
 </div>
+  
+<br>
 
 <div>
   <a href="https://github.com/luizfelipe9627">
