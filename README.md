@@ -1,7 +1,7 @@
 <h2>Olá! Seja muito bem vindo(a) ao meu perfil.<h2>
   
 <div align=right>
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=luizfelipe9627&repo=github-visitors-badge&countColor=%230077B5" title="Visitas no perfil" alt="Visitas">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=luizfelipe9627&repo=github-visitors-badge&countColor=%230077B5" title="Visitas ao perfil" alt="Visitas">
 </div>
   
 <br>
