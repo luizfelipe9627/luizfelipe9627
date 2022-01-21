@@ -4,8 +4,6 @@
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=luizfelipe9627&repo=github-visitors-badge&countColor=%230077B5" title="Visitas ao perfil" alt="Visitas">
 </div>
   
-<br>
-  
 <div> 
   <a href="https://linkedin.com/in/luizfelipe9627/" title="Linkedin do Luiz Felipe">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
