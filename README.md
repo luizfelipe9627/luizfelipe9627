@@ -3,9 +3,9 @@
 <div align=right>
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=luizfelipe9627&repo=github-visitors-badge&countColor=%230077B5" title="Visitas ao perfil" alt="Visitas">
 </div>
-  
+
 <br>
-  
+
 <div> 
   <a href="https://linkedin.com/in/luizfelipe9627/" title="Linkedin do Luiz Felipe">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
@@ -32,7 +32,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css3"/>
 </div>
-  
+
+<br>
+
 ![snake gif](https://github.com/luizfelipe9627/luizfelipe9627/blob/output/github-contribution-grid-snake.svg)
 
   
