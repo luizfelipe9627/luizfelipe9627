@@ -16,7 +16,7 @@
 - 🎓 &nbsp; Estudando Desenvolvimento Front-End com HTML5, CSS3 e Javascript;
 - :dart: &nbsp; Foco em Javascript;
 - :computer: &nbsp; Programar todos os dias é necessário;
-- :world_map: &nbsp; Eu amo codar.
+- :world_map: &nbsp; Amor por codar.
 
 ### :earth_americas: &nbsp;Onde me encontrar
   
