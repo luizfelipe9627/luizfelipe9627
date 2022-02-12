@@ -1,15 +1,16 @@
 <h2>Hello, welcome to my profile.<h2>
   
 <div align=right>
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=luizfelipe9627&repo=github-visitors-badge&countColor=%230077B5" title="Visitas ao perfil" alt="Visitas">
+  <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=luizfelipe9627&repo=github-visitors-badge&countColor=%230077B5" title="Visitas ao perfil" alt="Visitas">
 </div>
  
-:trophy: &nbsp;Status
+### :trophy: &nbsp;Status
   
 <div>
   <a href="https://github.com/luizfelipe9627">
-  <img height="145em"   align="center" src="https://github-readme-stats.vercel.app/api?username=luizfelipe9627&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="145em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipe9627&layout=compact&langs_count=7&theme=react" />
+    <img height="145em"   align="center" src="https://github-readme-stats.vercel.app/api?username=luizfelipe9627&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="145em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipe9627&layout=compact&langs_count=7&theme=react" />
+  </a>
 </div>
 
  ### :man: &nbsp;About me
@@ -20,6 +21,7 @@
 - :world_map: &nbsp; I love code.
 
 ### :earth_americas: &nbsp;**Where to find me**
+  
 <div> 
   <a href="https://linkedin.com/in/luizfelipe9627/" title="Linkedin do Luiz Felipe">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
@@ -31,13 +33,15 @@
     <img src="https://img.shields.io/badge/-Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Menssenger"/>
   </a>
 </div>
-  
+ 
 ### :rocket: &nbsp;**Skills**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+### :computer: &nbsp;**Development tools**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
 
 ![snake gif](https://github.com/luizfelipe9627/luizfelipe9627/blob/output/github-contribution-grid-snake.svg)
-
-  
