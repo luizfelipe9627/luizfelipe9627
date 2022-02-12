@@ -1,9 +1,8 @@
 <h2>Hello, welcome to my profile.<h2>
   
-<div align=right>
-  <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=luizfelipe9627&repo=github-visitors-badge&countColor=%230077B5" title="Visitas ao perfil" alt="Visitas">
-</div>
- 
+<img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=luizfelipe9627&repo=github-visitors-badge&countColor=%230077B5" title="Visitas ao perfil" alt="Visitas">
+
+<br>
 ### :trophy: &nbsp;Status
   
 <div>
@@ -13,14 +12,14 @@
   </a>
 </div>
 
- ### :man: &nbsp;About me
+ ### :man: &nbsp;Sobre mim
 
 - 🎓 &nbsp; Studying FrontEnd Development with HTML5, CSS3 and Javascript;
 - :dart: &nbsp; Focus on Javascript;
 - :computer: &nbsp; Programming everyday is necessary;
 - :world_map: &nbsp; I love code.
 
-### :earth_americas: &nbsp;**Where to find me**
+### :earth_americas: &nbsp;Onde me encontrar
   
 <div> 
   <a href="https://linkedin.com/in/luizfelipe9627/" title="Linkedin do Luiz Felipe">
@@ -34,13 +33,13 @@
   </a>
 </div>
  
-### :rocket: &nbsp;**Skills**
+### :rocket: &nbsp;**Habilidades**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
-### :computer: &nbsp;**Development tools**
+### :computer: &nbsp;**Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
 
