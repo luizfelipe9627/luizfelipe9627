@@ -1,8 +1,7 @@
-<h2>Hello, welcome to my profile.<h2>
+<h2>Olá, seja bem vindo(a) ao meu perfil..<h2>
   
 <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=luizfelipe9627&repo=github-visitors-badge&countColor=%230077B5" title="Visitas ao perfil" alt="Visitas">
 
-<br>
 ### :trophy: &nbsp;Status
   
 <div>
@@ -14,10 +13,10 @@
 
  ### :man: &nbsp;Sobre mim
 
-- 🎓 &nbsp; Studying FrontEnd Development with HTML5, CSS3 and Javascript;
-- :dart: &nbsp; Focus on Javascript;
-- :computer: &nbsp; Programming everyday is necessary;
-- :world_map: &nbsp; I love code.
+- 🎓 &nbsp; Estudando Desenvolvimento Front-End com HTML5, CSS3 e Javascript;
+- :dart: &nbsp; Foco em Javascript;
+- :computer: &nbsp; Programar todos os dias é necessário;
+- :world_map: &nbsp; Eu amo codar.
 
 ### :earth_americas: &nbsp;Onde me encontrar
   
