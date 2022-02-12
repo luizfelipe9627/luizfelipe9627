@@ -23,11 +23,11 @@
 ### :earth_americas: &nbsp;Onde me encontrar
   
 <div> 
-  <a href="https://linkedin.com/in/luizfelipe9627/" title="Linkedin do Luiz Felipe">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-  </a>
   <a href="https://api.whatsapp.com/send?phone=5511952353969/" title="Whatsapp do Luiz Felipe">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
+  </a>
+  <a href="https://linkedin.com/in/luizfelipe9627/" title="Linkedin do Luiz Felipe">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
   <a href="https://m.me/luizfelipe.9627/" title="Messenger do Luiz Felipe">
     <img src="https://img.shields.io/badge/-Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Menssenger"/>
