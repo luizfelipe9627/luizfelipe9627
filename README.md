@@ -13,7 +13,7 @@
   </a>
 </div>
 
- ### :man: &nbsp;Sobre mim
+ ### :curly_haired_man: &nbsp;Sobre mim
 
 - 🎓 &nbsp; Estudando Desenvolvimento Front-End com HTML5, CSS3 e Javascript;
 - :dart: &nbsp; Foco em Javascript;
