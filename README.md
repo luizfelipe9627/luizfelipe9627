@@ -15,8 +15,8 @@
 
  ### :curly_haired_man: &nbsp;Sobre mim
 
-- 🎓 &nbsp; Estudando Desenvolvimento Front-End com HTML5, CSS3 e Javascript;
-- :dart: &nbsp; Foco em Javascript;
+- 🎓 &nbsp; Estudando Desenvolvimento Front-End com HTML5, CSS3 e JavaScript;
+- :dart: &nbsp; Foco em JavaScript;
 - :computer: &nbsp; Programar todos os dias é necessário;
 - :heart: &nbsp; Amor por codar.
 
@@ -26,11 +26,11 @@
   <a href="https://api.whatsapp.com/send?phone=5511952353969/" title="Whatsapp do Luiz Felipe">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
-  <a href="https://linkedin.com/in/luizfelipe9627/" title="Linkedin do Luiz Felipe">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-  </a>
   <a href="https://m.me/luizfelipe.9627/" title="Messenger do Luiz Felipe">
     <img src="https://img.shields.io/badge/-Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Menssenger"/>
+  </a>
+  <a href="https://linkedin.com/in/luizfelipe9627/" title="Linkedin do Luiz Felipe">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
 </div>
  
@@ -39,7 +39,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### :book: &nbsp;**Aprendendo**
+### :books: &nbsp;**Aprendendo**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
