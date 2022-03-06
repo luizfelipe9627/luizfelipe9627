@@ -15,8 +15,8 @@
 
  ### :curly_haired_man: &nbsp;Sobre mim
 
-- :man_student: Cursando Análise e Desenvolvimento de Sistemas;
-- :books: Estudando Desenvolvimento Front-End com HTML5, CSS3 e JavaScript;
+- :man_student: &nbsp; Cursando Análise e Desenvolvimento de Sistemas;
+- :books: &nbsp; Estudando Desenvolvimento Front-end com HTML5, CSS3 e JavaScript;
 - :dart: &nbsp; Foco em JavaScript;
 - :computer: &nbsp; Programar todos os dias é necessário;
 - :heart: &nbsp; Amor por codar.
