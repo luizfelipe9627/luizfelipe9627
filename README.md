@@ -2,8 +2,6 @@
 
 <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=luizfelipe9627&repo=github-visitors-badge&countColor=%230077B5" title="Visitas ao perfil" alt="Visitas">
 
-<br>
-
 ### :trophy: &nbsp;Status
   
 <div>
@@ -20,6 +18,8 @@
 - :dart: &nbsp; Foco em JavaScript;
 - :computer: &nbsp; Programar todos os dias é necessário;
 - :heart: &nbsp; Amor por codar.
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" title="Visitas ao perfil" alt="Visitas" height='300px'>
 
 ### :earth_americas: &nbsp;Onde me encontrar
   
