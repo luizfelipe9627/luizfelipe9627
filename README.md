@@ -19,7 +19,7 @@
 - :computer: &nbsp; Programar todos os dias é necessário;
 - :heart: &nbsp; Amor por codar.
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" title="Visitas ao perfil" alt="Gif programando" height='250px'>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Gif programando" height='270px'>
 
 ### :earth_americas: &nbsp;Onde me encontrar
   
