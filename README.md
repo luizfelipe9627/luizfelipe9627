@@ -2,6 +2,8 @@
 
 <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=luizfelipe9627&repo=github-visitors-badge&countColor=%230077B5" title="Visitas ao perfil" alt="Visitas">
 
+<br>
+
 ### :trophy: &nbsp;Status
   
 <div>
