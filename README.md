@@ -23,9 +23,9 @@
 
 ### :earth_americas: &nbsp;Onde me encontrar
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511952353969&text=%5BGitHub%5D%20Ol%C3%A1%2C%20venho%20do%20seu%20GitHub.)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511952353969&text=[GitHub]%20Olá,%20venho%20através%20do%20seu%20GitHub.)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizfelipe9627)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:felipesilva9627@hotmail.com?subject=[GitHub]%20Olá,%20venho%20do%20seu%20GitHub.)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:felipesilva9627@hotmail.com?subject=[GitHub]%20Olá,%20venho%20através%20do%20seu%20GitHub.)
  
 ### :rocket: &nbsp;**Habilidades**
 
