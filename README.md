@@ -25,7 +25,7 @@
 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511952353969)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizfelipe9627)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://mailto:felipesilva9627@hotmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:felipesilva9627@hotmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
  
 ### :rocket: &nbsp;**Habilidades**
 
