@@ -1,15 +1,19 @@
 ## Olá, seja bem vindo(a) ao meu perfil.
 
-<img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=luizfelipe9627&repo=github-visitors-badge&countColor=%230077B5" title="Visitas ao perfil" alt="Visitas">
+<div align="right">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=luizfelipe9627&repo=github-visitors-badge&countColor=%230077B5" title="Visitas ao perfil" alt="Visitas">
+</div>
 
 <br>
 
 ### :trophy: &nbsp;Meu status
-  
-<a href="https://github.com/luizfelipe9627">
-  <img height="200vh" align="center" src="https://github-readme-stats-lkotlarenko.vercel.app/api?username=luizfelipe9627&show_icons=true&theme=react&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true""/>
-  <img height="200vh" align="center" src="https://github-readme-stats-lkotlarenko.vercel.app/api/top-langs?username=luizfelipe9627&show_icons=true&theme=react&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4"/>
-</a>
+
+<div align="center" height="200vh">
+  <a href="https://github.com/luizfelipe9627">
+    <img height="200vh" src="https://github-readme-stats-lkotlarenko.vercel.app/api?username=luizfelipe9627&show_icons=true&theme=react&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true""/>
+    <img height="200vh" src="https://github-readme-stats-lkotlarenko.vercel.app/api/top-langs?username=luizfelipe9627&show_icons=true&theme=react&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4"/>
+  </a>
+</div>
 
  ### :curly_haired_man: &nbsp;Sobre mim
 
@@ -48,5 +52,5 @@
 ### :computer: &nbsp;**Ferramenta de desenvolvimento**
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/luizfelipe9627)
-
+                                                                               
 [![snake gif](https://github.com/luizfelipe9627/luizfelipe9627/blob/output/github-contribution-grid-snake.svg)](https://github.com/luizfelipe9627)
