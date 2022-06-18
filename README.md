@@ -7,8 +7,8 @@
 ### :trophy: &nbsp;Meu status
   
 <a href="https://github.com/luizfelipe9627">
-  <img height="165vh"   align="center" src="https://github-readme-stats.vercel.app/api?username=luizfelipe9627&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="165vh"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipe9627&layout=compact&langs_count=7&theme=react"/>
+  <img height="200vh" align="center" src="https://github-readme-stats-lkotlarenko.vercel.app/api?username=luizfelipe9627&show_icons=true&theme=react&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true""/>
+  <img height="200vh" align="center" src="https://github-readme-stats-lkotlarenko.vercel.app/api/top-langs?username=luizfelipe9627&show_icons=true&theme=react&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4"/>
 </a>
 
  ### :curly_haired_man: &nbsp;Sobre mim
