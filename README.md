@@ -31,11 +31,11 @@
  
 ### :rocket: &nbsp;**Habilidades**
 
-[![Skills](https://skillicons.dev/icons?i=html,css,git,github)](https://github.com/luizfelipe9627)
+[![Skills](https://skillicons.dev/icons?i=html,css,git,github,figma)](https://github.com/luizfelipe9627)
 
 ### :books: &nbsp;**Estudando**
 
-[![Skills](https://skillicons.dev/icons?i=javascript,bootstrap)](https://github.com/luizfelipe9627)
+[![Skills](https://skillicons.dev/icons?i=javascript,nodejs,bootstrap)](https://github.com/luizfelipe9627)
                                                                                                          
 ### :desktop_computer: &nbsp;**Sistemas operacionais**
 
