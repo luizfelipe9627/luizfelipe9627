@@ -36,7 +36,7 @@
 
 ### :books: &nbsp;**Estudando**
 
-[![Skills](https://skillicons.dev/icons?i=javascript,nodejs,bootstrap)](https://github.com/luizfelipe9627)
+[![Skills](https://skillicons.dev/icons?i=javascript,nodejs,sass,bootstrap)](https://github.com/luizfelipe9627)
                                                                                                          
 ### :desktop_computer: &nbsp;**Sistemas operacionais**
 
