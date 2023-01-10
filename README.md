@@ -36,11 +36,11 @@
 
 ### :books: &nbsp;**Estudando**
 
-[![Skills](https://skillicons.dev/icons?i=react,typescript,sass,bootstrap)](https://github.com/luizfelipe9627)
+[![Skills](https://skillicons.dev/icons?i=react,typescript)](https://github.com/luizfelipe9627)
                                                                                                          
 ### :pencil: &nbsp;**Pretendo aprender**
                                                                                                          
-[![Skills](https://skillicons.dev/icons?i=python,mysql)](https://github.com/luizfelipe9627)                                                                                                        
+[![Skills](https://skillicons.dev/icons?i=bootstrap,python,mysql)](https://github.com/luizfelipe9627)                                                                                                        
 ### :desktop_computer: &nbsp;**Sistemas operacionais**
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/luizfelipe9627)
