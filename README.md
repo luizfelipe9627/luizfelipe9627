@@ -1,4 +1,4 @@
-## Olá, seja bem vindo(a) ao meu perfil. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px">
+## Olá, seja bem vindo(a) ao meu perfil. <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" height="30px" width="30px">
 
 <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=luizfelipe9627&repo=github-visitors-badge&countColor=%230077B5" title="Visitas ao perfil" alt="Visitas">
 
