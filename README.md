@@ -45,7 +45,6 @@
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/luizfelipe9627)
 [![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/luizfelipe9627)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/luizfelipe9627)
                                                                                                          
 ### :computer: &nbsp;**Ferramenta de desenvolvimento**
 
