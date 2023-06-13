@@ -32,7 +32,7 @@
  
 ### :rocket: &nbsp;**Habilidades**
 
-[![Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,figma,sass,nodejs)](https://github.com/luizfelipe9627)
+[![Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,figma,sass)](https://github.com/luizfelipe9627)
 
 ### :books: &nbsp;**Estudando**
 
@@ -40,7 +40,7 @@
                                                                                                          
 ### :pencil: &nbsp;**Pretendo aprender**
                                                                                                          
-[![Skills](https://skillicons.dev/icons?i=bootstrap,mysql,python)](https://github.com/luizfelipe9627)                                                                                                        
+[![Skills](https://skillicons.dev/icons?i=bootstrap,nodejs,mysql,python)](https://github.com/luizfelipe9627)                                                                                                        
 ### :desktop_computer: &nbsp;**Sistemas operacionais**
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/luizfelipe9627)
