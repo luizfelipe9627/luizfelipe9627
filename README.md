@@ -158,3 +158,5 @@
     &nbsp;
   </a>
 </p>
+
+<img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas" />
