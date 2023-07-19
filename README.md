@@ -6,7 +6,7 @@
 
 <img align="center" width="100%" alt="Banner Animado do Github do Luiz" src="./images/wallpaper.apng" />
 
-<br>
+<hr>
 
 ### :trophy: &nbsp;Meu status
 
