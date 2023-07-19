@@ -2,6 +2,12 @@
 
 <img align="right" src="https://visitor-badge.feriirawann.repl.co/?username=luizfelipe9627&repo=luizfelipe9627&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=%230077B5&contentType=svg" title="Visitas ao perfil" alt="Visitas">
 
+<br><br>
+
+<a href="https://github.com/Luk4x/github-profile-background-photo" alt="Repositório do Banner Animado de Luk4x">
+  <img align="center" width="100%" alt="Banner Animado do Github do Luiz" src="./images/wallpaper.gif" />
+</a>
+
 <br>
 
 ### :trophy: &nbsp;Meu status
