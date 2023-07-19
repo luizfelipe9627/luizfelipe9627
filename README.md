@@ -1,4 +1,4 @@
-## Olá, seja bem vindo(a) ao meu perfil. <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" height="30px" width="30px">
+## Seja bem vindo(a) ao meu perfil. <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" height="30px" width="30px">
 
 <img align="right" src="https://visitor-badge.feriirawann.repl.co/?username=luizfelipe9627&repo=luizfelipe9627&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=%230077B5&contentType=svg" title="Visitas ao perfil" alt="Visitas">
 
