@@ -4,7 +4,7 @@
 
 <br><br>
 
-<a href="https://github.com/Luk4x/github-profile-background-photo" alt="Repositório do Banner Animado de Luk4x">
+<a href="https://github.com/luizfelipe9627/github-profile-background-photo" alt="Repositório do Banner Animado">
   <img align="center" width="100%" alt="Banner Animado do Github do Luiz" src="./images/wallpaper.apng" />
 </a>
 
