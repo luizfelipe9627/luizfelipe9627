@@ -4,9 +4,7 @@
 
 <br><br>
 
-<a href="https://github.com/luizfelipe9627/github-profile-background-photo" alt="Repositório do Banner Animado">
-  <img align="center" width="100%" alt="Banner Animado do Github do Luiz" src="./images/wallpaper.apng" />
-</a>
+<img align="center" width="100%" alt="Banner Animado do Github do Luiz" src="./images/wallpaper.apng" />
 
 <br>
 
@@ -15,7 +13,7 @@
 <img align="right" height="402px" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizfelipe9627&langs_count=8&theme=react&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400"/>
 <div align="left">
   <img height="203px" src="https://github-readme-stats.vercel.app/api?username=luizfelipe9627&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />  
-   <img height="192px" src="https://github-readme-stats.vercel.app/api/wakatime?username=luizfelipe9627&theme=react&hide_border=true&custom_title=Tempo%20Codando&langs_count=5&range=all_time&cache_seconds=14400" />
+  <img height="192px" src="https://github-readme-stats.vercel.app/api/wakatime?username=luizfelipe9627&theme=react&hide_border=true&custom_title=Tempo%20Codando&langs_count=5&range=all_time&cache_seconds=14400" />
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizfelipe9627&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
@@ -24,11 +22,19 @@
 
 ### :curly_haired_man: &nbsp;Sobre mim
 
-- :man_student: &nbsp; Cursando Análise e Desenvolvimento de Sistemas;
-- :books: &nbsp; Estudando Desenvolvimento Front-end com React;
-- :dart: &nbsp; Foco em JavaScript;
-- :computer: &nbsp; Programar todos os dias é necessário;
-- :heart: &nbsp; Amor por codar.
+<img align="right" src="https://luizfelipe9627-spotify-readme.vercel.app/api?theme=dark&scan=true" alt="Música que está tocando no Spotify do Luiz Felipe no momento" />
+
+<ul>
+  <li>:man_student: &nbsp Cursando Análise e Desenvolvimento de Sistemas;</li>
+  <li>:books: &nbsp; Estudando Desenvolvimento Front-end com React;</li>
+  <li>:dart: &nbsp; Foco em JavaScript;</li>
+  <li>:computer: &nbsp; Programar todos os dias é necessário;</li>
+  <li>:heart: &nbsp; Amor por codar.</li>
+</ul>
+
+<div align="left">
+ 
+</div>
 
 <hr>
 
@@ -40,107 +46,87 @@
 <table align="left" height="255px">
   <tr>
     <td align="center">
-      <a href="https://pt-br.reactjs.org/">
-        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML icon"/><br/>
-        <sub>
-          <b>
-            <pre>HTML5</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nextjs.org/">
-        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS icon"/><br/>
-        <sub>
-          <b>
-            <pre>CSS3</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript icon"/><br/>
-        <sub>
-          <b>
-            <pre>JavaScript</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://tailwindcss.com/">
-        <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br/>
-        <sub>
-          <b>
-            <pre>Sass</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  <td align="center">
-    <a href="https://github.com/">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.JS icon"/><br/>
+      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML icon"/><br/>
       <sub>
         <b>
-          <pre>Node.JS</pre>
+          <pre>HTML5</pre>
         </b>
       </sub>
-    </a>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS icon"/><br/>
+      <sub>
+        <b>
+          <pre>CSS3</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript icon"/><br/>
+      <sub>
+        <b>
+          <pre>JavaScript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br/>
+      <sub>
+        <b>
+          <pre>Sass</pre>
+        </b>
+      </sub>
+    </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.JS icon"/><br/>
+    <sub>
+      <b>
+        <pre>Node.JS</pre>
+      </b>
+    </sub>
    </td>
   </tr>
   
   <tr>
     <td align="center">
-      <a href="https://tailwindcss.com/">
-        <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br/>
-        <sub>
-          <b>
-            <pre>Git</pre>
-          </b>
-        </sub>
-      </a>
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br/>
+      <sub>
+        <b>
+          <pre>Git</pre>
+        </b>
+      </sub>
     </td>
     <td align="center">
-      <a href="https://github.com/">
-        <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br/>
-        <sub>
-          <b>
-            <pre>GitHub</pre>
-          </b>
-        </sub>
-      </a>
+      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br/>
+      <sub>
+        <b>
+          <pre>GitHub</pre>
+        </b>
+      </sub>
      </td>
     <td align="center">
-      <a href="https://www.figma.com">
-        <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br/>
-        <sub>
-          <b>
-            <pre>Figma</pre>
-          </b>
-        </sub>
-      </a>
+      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br/>
+      <sub>
+        <b>
+          <pre>Figma</pre>
+        </b>
+      </sub>
     </td>
     <td align="center">
-      <a href="https://firebase.google.com/">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VSCode icon"/><br/>
-        <sub>
-          <b>
-            <pre>VS Code</pre>
-          </b>
-        </sub>
-      </a>
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VSCode icon"/><br/>
+      <sub>
+        <b>
+          <pre>VS Code</pre>
+        </b>
+      </sub>
     </td>
     <td align="center">
-      <a href="https://firebase.google.com/">
-        <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
-        <sub>
-          <b>
-            <pre>Linux</pre>
-          </b>
-        </sub>
-      </a>
+      <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
+      <sub>
+        <b>
+          <pre>Linux</pre>
+        </b>
+      </sub>
     </td>
   </tr>
 </table>
