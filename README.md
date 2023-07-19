@@ -34,7 +34,8 @@
 
 ### :rocket: &nbsp;**Minhas habilidades**
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Gif programando" height="220px">
+
+<img align="right" src="./images/programando.gif" alt="Menino programando" height="220px">
 
 <table align="left" height="255px">
   <tr>
