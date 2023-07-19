@@ -6,11 +6,10 @@
 
 ### :trophy: &nbsp;Meu status
 
-<div align="center">
-  <a href="https://github.com/luizfelipe9627">
-    <img height="200vh" src="https://github-readme-stats-lkotlarenko.vercel.app/api?username=luizfelipe9627&show_icons=true&theme=react&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true"/>
-    <img height=200vh" src="https://github-readme-stats-lkotlarenko.vercel.app/api/top-langs?username=luizfelipe9627&show_icons=true&theme=react&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4"/>
-  </a>
+<img align="right" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=luizfelipe9627&langs_count=8&theme=dark&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400"/>
+<div align="left">
+  <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=luizfelipe9627&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />  
+  <img height="203px" src="https://streak-stats.demolab.com?user=luizfelipe9627&theme=dark&hide_border=true&locale=pt_BR"/>
 </div>
 
  ### :curly_haired_man: &nbsp;Sobre mim
@@ -38,7 +37,7 @@
 
 [![Skills](https://skillicons.dev/icons?i=react,typescript)](https://github.com/luizfelipe9627)
                                                                                                          
-### :pencil: &nbsp;**Pretendo aprender**
+### :pencil: &nbsp;**Pretendo aprender** 
                                                                                                          
 [![Skills](https://skillicons.dev/icons?i=bootstrap,mysql,python)](https://github.com/luizfelipe9627)                                                                                                        
 ### :desktop_computer: &nbsp;**Sistemas operacionais**
@@ -49,5 +48,3 @@
 ### :computer: &nbsp;**Ferramenta de desenvolvimento**
 
 [![Editor](https://skillicons.dev/icons?i=vscode)](https://github.com/luizfelipe9627)
-                                                                               
-[![snake gif](https://github.com/luizfelipe9627/luizfelipe9627/blob/output/github-contribution-grid-snake.svg)](https://github.com/luizfelipe9627)
