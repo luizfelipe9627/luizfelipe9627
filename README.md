@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo(a) ao meu perfil. <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" height="30px" width="30px">
 
-<img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=luizfelipe9627&repo=github-visitors-badge&countColor=%230077B5" title="Visitas ao perfil" alt="Visitas">
+<img align="right" src="https://visitor-badge.feriirawann.repl.co/?username=luizfelipe9627&repo=luizfelipe9627&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=%230077B5&contentType=svg" title="Visitas ao perfil" alt="Visitas">
 
 <br>
 
@@ -9,7 +9,7 @@
 <img align="right" height="402px" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizfelipe9627&langs_count=8&theme=react&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400"/>
 <div align="left">
   <img height="203px" src="https://github-readme-stats.vercel.app/api?username=luizfelipe9627&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />  
-   <img height="193px" src="https://github-readme-stats.vercel.app/api/wakatime?username=luizfelipe9627&theme=react&hide_border=true&custom_title=Tempo%20Codando&langs_count=5&range=all_time&cache_seconds=14400" />
+   <img height="192px" src="https://github-readme-stats.vercel.app/api/wakatime?username=luizfelipe9627&theme=react&hide_border=true&custom_title=Tempo%20Codando&langs_count=5&range=all_time&cache_seconds=14400" />
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizfelipe9627&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
