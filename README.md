@@ -6,13 +6,15 @@
 
 ### :trophy: &nbsp;Meu status
 
-<img align="right" height="428px" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizfelipe9627&langs_count=8&theme=dark&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400"/>
+<img align="right" height="403px" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizfelipe9627&langs_count=8&theme=dark&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400"/>
 <div align="left">
   <img height="203px" src="https://github-readme-stats.vercel.app/api?username=luizfelipe9627&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />  
-   <img height="193px" src="https://github-readme-stats.vercel.app/api/wakatime?username=luizfelipe9627&theme=dark&hide_border=true&custom_title=Tempo%20Codando&langs_count=5&range=all_time&cache_seconds=14400" />
+   <img height="191px" src="https://github-readme-stats.vercel.app/api/wakatime?username=luizfelipe9627&theme=dark&hide_border=true&custom_title=Tempo%20Codando&langs_count=5&range=all_time&cache_seconds=14400" />
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizfelipe9627&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+
+<hr>
 
 ### :curly_haired_man: &nbsp;Sobre mim
 
@@ -21,10 +23,18 @@
 - :dart: &nbsp; Foco em JavaScript;
 - :computer: &nbsp; Programar todos os dias é necessário;
 - :heart: &nbsp; Amor por codar.
- 
-### :rocket: &nbsp;**Habilidades**
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Gif programando" height="250px">
+<div align="center">
+  <a href="https://open.spotify.com/user/317pewkddeii2h3hfvslij6zwwdy" target="_blank">
+    <img src="https://crazzydemonic-spotify-readme.vercel.app/api?theme=dark&scan=true" alt="Música que está tocando no Spotify do Luiz no momento" />
+  </a>
+</div>
+
+<hr>
+
+### :rocket: &nbsp;**Minhas habilidades**
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Gif programando" height="240px">
 
 <table align="left" height="255px">
   <tr>
@@ -102,7 +112,7 @@
       </a>
      </td>
     <td align="center">
-      <a href="https://firebase.google.com/">
+      <a href="https://www.figma.com">
         <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br/>
         <sub>
           <b>
@@ -111,10 +121,32 @@
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://firebase.google.com/">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VSCode icon"/><br/>
+        <sub>
+          <b>
+            <pre>VS Code</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://firebase.google.com/">
+        <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
+        <sub>
+          <b>
+            <pre>Linux</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
 <br><br><br><br><br><br><br><br><br><br><br>
+
+<hr>
 
 ### :earth_americas: &nbsp;Onde me encontrar
 
