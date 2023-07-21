@@ -6,7 +6,7 @@
 
 <img align="center" width="100%" alt="Banner Animado do Github do Luiz" src="./images/wallpaper.apng" />
 
-<hr>
+##
 
 ### :trophy: &nbsp;Meu status
 
@@ -18,7 +18,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizfelipe9627&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
-<hr>
+##
 
 ### :curly_haired_man: &nbsp;Sobre mim
 
@@ -36,7 +36,7 @@
  
 </div>
 
-<hr>
+##
 
 ### :rocket: &nbsp;**Minhas habilidades**
 
@@ -159,9 +159,11 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
+##
+
 ### :book: &nbsp;**Pretendo aprender**
 
-<img align="left" src="./images/programando.gif" alt="Menino programando" height="220px">
+<img align="left" src="./images/programando.gif" alt="Menino programando" height="280px">
 
 <table align="right" height="255px">
   <tr>
@@ -202,6 +204,8 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
+##
+
 ### :earth_americas: &nbsp;Onde me encontrar
 
 <p align="left">
@@ -225,5 +229,7 @@
     &nbsp;
   </a>
 </p>
+
+##
 
 <img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas" />
