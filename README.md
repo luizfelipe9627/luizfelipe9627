@@ -40,7 +40,6 @@
 
 ### :rocket: &nbsp;**Minhas habilidades**
 
-
 <img align="right" src="./images/programando.gif" alt="Menino programando" height="220px">
 
 <table align="left" height="255px">
@@ -113,6 +112,33 @@
       </sub>
     </td>
     <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React.JS icon"/><br/>
+      <sub>
+        <b>
+          <pre>React.JS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite.JS icon"/><br/>
+      <sub>
+        <b>
+          <pre>Vite.JS</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+
+   <tr>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=gulp" width="65px" alt="Gulp icon"/><br/>
+      <sub>
+        <b>
+          <pre>Gulp</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VSCode icon"/><br/>
       <sub>
         <b>
@@ -133,7 +159,48 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-<hr>
+### :book: &nbsp;**Pretendo aprender**
+
+<img align="left" src="./images/programando.gif" alt="Menino programando" height="220px">
+
+<table align="right" height="255px">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript icon"/><br/>
+      <sub>
+        <b>
+          <pre>TypeScript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
+      <sub>
+        <b>
+          <pre>Bootstrap</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="65px" alt="Wordpress icon"/><br/>
+      <sub>
+        <b>
+          <pre>Wordpress</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python icon"/><br/>
+      <sub>
+        <b>
+          <pre>Python</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### :earth_americas: &nbsp;Onde me encontrar
 
