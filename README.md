@@ -208,6 +208,17 @@
       </sub>
     </td>
   </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br/>
+      <sub>
+        <b>
+          <pre>MySQL</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
 </table>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
