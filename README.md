@@ -163,7 +163,7 @@
 
 ### :book: &nbsp;**Pretendo aprender**
 
-<img align="left" src="./images/programando.gif" alt="Menino programando" height="280px">
+<img align="left" src="./images/programando.gif" alt="Menino programando" height="250px">
 
 <table align="right" height="255px">
   <tr>
