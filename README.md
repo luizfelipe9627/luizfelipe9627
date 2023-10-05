@@ -84,6 +84,9 @@
         </b>
       </sub>
     </td>
+  </tr>
+  
+  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="Typescript icon"/><br/>
       <sub>
@@ -92,9 +95,6 @@
         </b>
       </sub>
      </td>
-  </tr>
-  
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br/>
       <sub>
@@ -127,22 +127,25 @@
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VSCode icon"/><br/>
-      <sub>
-        <b>
-          <pre>VS Code</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
-      <sub>
-        <b>
-          <pre>Linux</pre>
-        </b>
-      </sub>
-    </td>
+  </tr>
+
+  <tr>
+   <td align="center">
+    <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VSCode icon"/><br/>
+    <sub>
+      <b>
+        <pre>VS Code</pre>
+      </b>
+    </sub>
+   </td>
+   <td align="center">
+    <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
+    <sub>
+      <b>
+        <pre>Linux</pre>
+      </b>
+    </sub>
+   </td>
   </tr>
 </table>
 
@@ -196,7 +199,10 @@
         </b>
       </sub>
     </td>
-     <td align="center">
+  </tr>
+
+  <tr>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br/>
       <sub>
         <b>
