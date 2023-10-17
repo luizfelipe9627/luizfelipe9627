@@ -40,7 +40,7 @@
 
 ### :rocket: &nbsp;**Minhas habilidades**
 
-<img align="right" src="./images/programando.gif" alt="Menino programando" height="220px">
+<img align="right" src="./images/programando1.gif" alt="Menino programando" height="220px">
 
 <table align="left" height="255px">
   <tr>
@@ -147,7 +147,7 @@
 
 ### :book: &nbsp;**Pretendo aprender**
 
-<img align="left" src="./images/programando.gif" alt="Menino programando" height="220px">
+<img align="left" src="./images/programando2.gif" alt="Menino programando" height="220px">
 
 <table align="right" height="255px">
   <tr>
