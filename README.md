@@ -26,8 +26,8 @@
 
 <ul>
   <li>:man_student: &nbsp Cursando Análise e Desenvolvimento de Sistemas;</li>
-  <li>:books: &nbsp; Estudando Desenvolvimento Front-end com React;</li>
-  <li>:dart: &nbsp; Foco em JavaScript;</li>
+  <li>:books: &nbsp; Estudando Desenvolvimento Front-end com React e TypeScript;</li>
+  <li>:dart: &nbsp; Foco em TypeScript;</li>
   <li>:computer: &nbsp; Programar todos os dias é necessário;</li>
   <li>:heart: &nbsp; Amor por codar.</li>
 </ul>
@@ -88,10 +88,10 @@
   
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="Typescript icon"/><br/>
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript icon"/><br/>
       <sub>
         <b>
-          <pre>Typescript</pre>
+          <pre>TypeScript</pre>
         </b>
       </sub>
      </td>
@@ -143,6 +143,14 @@
     <sub>
       <b>
         <pre>Linux</pre>
+      </b>
+    </sub>
+   </td>
+     <td align="center">
+    <img src="https://skillicons.dev/icons?i=styledcomponents" width="65px" alt="Styled Components icon"/><br/>
+    <sub>
+      <b>
+        <pre>Styled <br> Components</pre>
       </b>
     </sub>
    </td>
