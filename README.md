@@ -61,14 +61,6 @@
       </sub>
     </td>
      <td align="center">
-      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br/>
-      <sub>
-        <b>
-          <pre>SASS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript icon"/><br/>
       <sub>
         <b>
@@ -77,10 +69,18 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React.JS icon"/><br/>
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
       <sub>
         <b>
           <pre>React.JS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="SASS icon"/><br/>
+      <sub>
+        <b>
+          <pre>SASS</pre>
         </b>
       </sub>
     </td>
@@ -88,13 +88,13 @@
   
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript icon"/><br/>
+      <img src="https://skillicons.dev/icons?i=gulp" width="65px" alt="Gulp icon"/><br/>
       <sub>
         <b>
-          <pre>TypeScript</pre>
+          <pre>Gulp</pre>
         </b>
       </sub>
-     </td>
+    </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br/>
       <sub>
@@ -110,20 +110,20 @@
           <pre>GitHub</pre>
         </b>
       </sub>
-     </td>
+    </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br/>
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="65px" alt="Styled components icon"/><br/>
       <sub>
         <b>
-          <pre>Figma</pre>
+          <pre>Styled <br> Components</pre>
         </b>
       </sub>
     </td>
-     <td align="center">
-      <img src="https://skillicons.dev/icons?i=gulp" width="65px" alt="Gulp icon"/><br/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript icon"/><br/>
       <sub>
         <b>
-          <pre>Gulp</pre>
+          <pre>TypeScript</pre>
         </b>
       </sub>
     </td>
@@ -131,26 +131,10 @@
 
   <tr>
    <td align="center">
-    <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VSCode icon"/><br/>
+    <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br/>
     <sub>
       <b>
-        <pre>VS Code</pre>
-      </b>
-    </sub>
-   </td>
-   <td align="center">
-    <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
-    <sub>
-      <b>
-        <pre>Linux</pre>
-      </b>
-    </sub>
-   </td>
-     <td align="center">
-    <img src="https://skillicons.dev/icons?i=styledcomponents" width="65px" alt="Styled Components icon"/><br/>
-    <sub>
-      <b>
-        <pre>Styled <br> Components</pre>
+        <pre>Figma</pre>
       </b>
     </sub>
    </td>
@@ -168,14 +152,6 @@
 <table align="right" height="255px">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.JS icon"/><br/>
-      <sub>
-        <b>
-          <pre>Node.JS</pre>
-        </b>
-      </sub>
-    </td>
-     <td align="center">
       <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br/>
       <sub>
         <b>
@@ -184,10 +160,18 @@
       </sub>
     </td>
     <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.JS icon"/><br/>
+      <sub>
+        <b>
+          <pre>Node.JS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
       <sub>
         <b>
-          <pre>Bootstrap</pre>
+          <pre>Bootstrap 5</pre>
         </b>
       </sub>
     </td>
