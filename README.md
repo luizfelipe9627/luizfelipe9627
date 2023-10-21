@@ -40,9 +40,9 @@
 
 ### :rocket: &nbsp;**Minhas habilidades**
 
-<img align="right" src="./images/programando1.gif" alt="Menino programando" height="220px">
+<img align="right" src="./images/programando1.gif" alt="Menino programando" width="40%">
 
-<table align="left" height="255px">
+<table align="left" height="255px" width="50%">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML icon"/><br/>
@@ -147,9 +147,9 @@
 
 ### :book: &nbsp;**Pretendo aprender**
 
-<img align="left" src="./images/programando2.gif" alt="Menino programando" height="220px">
+<img align="left" src="./images/programando2.gif" alt="Menino programando" width="40%">
 
-<table align="right" height="255px">
+<table align="right" height="60%">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br/>
