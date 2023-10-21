@@ -42,7 +42,7 @@
 
 <img align="right" src="./images/programando1.gif" alt="Menino programando" width="40%">
 
-<table align="left" height="255px" width="50%">
+<table align="left" height="255px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML icon"/><br/>
@@ -149,7 +149,7 @@
 
 <img align="left" src="./images/programando2.gif" alt="Menino programando" width="40%">
 
-<table align="right" height="60%">
+<table align="right">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br/>
