@@ -10,10 +10,10 @@
 
 ### :trophy: &nbsp;Meu status
 
-<img height="385px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizfelipe9627&langs_count=8&theme=react&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
+<img height="386px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizfelipe9627&langs_count=8&theme=react&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
 <div align="left">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=luizfelipe9627&theme=react&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
-  <img height="184px" src="https://github-readme-stats.vercel.app/api/wakatime?username=luizfelipe9627&theme=react&hide_border=true&custom_title=Tempo%20Codando&langs_count=5&range=all_time&cache_seconds=14400" />
+  <img height="197px" src="https://github-readme-stats.vercel.app/api?username=luizfelipe9627&theme=react&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
+  <img height="186px" src="https://github-readme-stats.vercel.app/api/wakatime?username=luizfelipe9627&theme=react&hide_border=true&custom_title=Tempo%20Codando&langs_count=5&range=all_time&cache_seconds=14400" />
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizfelipe9627&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
