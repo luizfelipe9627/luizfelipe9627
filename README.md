@@ -10,10 +10,15 @@
 
 ### :trophy: &nbsp;Meu status
 
-<img align="right" height="387px" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizfelipe9627&langs_count=8&theme=react&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400"/>
-<div align="left">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=luizfelipe9627&theme=react&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Status%20do%20Github&cache_seconds=14400" />  
-  <img height="184px" src="https://github-readme-stats.vercel.app/api/wakatime?username=luizfelipe9627&theme=react&hide_border=true&custom_title=Tempo%20Codando&langs_count=5&range=all_time&cache_seconds=14400" />
+<div display="flex">
+  <div align="left">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=luizfelipe9627&theme=react&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=luizfelipe9627&theme=react&hide_border=true&custom_title=Tempo%20Codando&langs_count=5&range=all_time&cache_seconds=14400" />
+  </div>
+
+  <div align="right">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizfelipe9627&langs_count=8&theme=react&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
+  </div>
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizfelipe9627&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
@@ -32,15 +37,11 @@
   <li>:heart: &nbsp; Amor por codar.</li>
 </ul>
 
-<div align="left">
- 
-</div>
-
 ##
 
 ### :rocket: &nbsp;**Minhas habilidades**
 
-<img align="right" src="./images/programando1.gif" alt="Menino programando" width="200px">
+<img align="right" src="./images/programando1.gif" alt="Menino programando" width="300px">
 
 <table align="left" height="255px">
   <tr>
@@ -60,7 +61,7 @@
         </b>
       </sub>
     </td>
-     <td align="center">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript icon"/><br/>
       <sub>
         <b>
@@ -76,6 +77,17 @@
         </b>
       </sub>
     </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript icon"/><br/>
+      <sub>
+        <b>
+          <pre>TypeScript</pre>
+        </b>
+      </sub>
+    </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="SASS icon"/><br/>
       <sub>
@@ -84,9 +96,6 @@
         </b>
       </sub>
     </td>
-  </tr>
-  
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=gulp" width="65px" alt="Gulp icon"/><br/>
       <sub>
@@ -103,11 +112,22 @@
         </b>
       </sub>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br/>
       <sub>
         <b>
           <pre>GitHub</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br/>
+      <sub>
+        <b>
+          <pre>Figma</pre>
         </b>
       </sub>
     </td>
@@ -118,26 +138,7 @@
           <pre>Styled <br> Components</pre>
         </b>
       </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript icon"/><br/>
-      <sub>
-        <b>
-          <pre>TypeScript</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-
-  <tr>
-   <td align="center">
-    <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br/>
-    <sub>
-      <b>
-        <pre>Figma</pre>
-      </b>
-    </sub>
-   </td>
+    </td> 
   </tr>
 </table>
 
@@ -147,9 +148,9 @@
 
 ### :book: &nbsp;**Pretendo aprender**
 
-<img align="left" src="./images/programando2.gif" alt="Menino programando" width="200px">
+<img align="left" src="./images/programando2.gif" alt="Menino programando" width="300px">
 
-<table align="right">
+<table align="right" height="255px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br/>
@@ -183,6 +184,9 @@
         </b>
       </sub>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python icon"/><br/>
       <sub>
@@ -191,9 +195,6 @@
         </b>
       </sub>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br/>
       <sub>
