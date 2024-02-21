@@ -133,7 +133,83 @@
           <pre>Styled <br> Components</pre>
         </b>
       </sub>
-    </td> 
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.JS icon"/><br/>
+      <sub>
+        <b>
+          <pre>Node.JS</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MongoDB icon"/><br/>
+      <sub>
+        <b>
+          <pre>MongoDB</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=prisma" width="65px" alt="Prisma icon"/><br/>
+      <sub>
+        <b>
+          <pre>Prisma</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=npm" width="65px" alt="Npm icon"/><br/>
+      <sub>
+        <b>
+          <pre>NPM</pre>
+        </b>
+      </sub>
+    </td>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=webpack" width="65px" alt="Webpack icon"/><br/>
+      <sub>
+        <b>
+          <pre>Webpack</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="Bash icon"/><br/>
+      <sub>
+      <b>
+        <pre>Bash</pre>
+      </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VSCode icon"/><br/>
+      <sub>
+        <b>
+          <pre>VSCode</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Postman icon"/><br/>
+      <sub>
+        <b>
+          <pre>Postman</pre>
+        </b>
+      </sub>
+    </td>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=windows" width="65px" alt="Windows icon"/><br/>
+      <sub>
+        <b>
+          <pre>Windows</pre>
+        </b>
+      </sub>
+    </td>
   </tr>
 </table>
 
@@ -156,14 +232,6 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.JS icon"/><br/>
-      <sub>
-        <b>
-          <pre>Node.JS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
       <sub>
         <b>
@@ -176,6 +244,14 @@
       <sub>
         <b>
           <pre>Wordpress</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br/>
+      <sub>
+        <b>
+          <pre>Java</pre>
         </b>
       </sub>
     </td>
