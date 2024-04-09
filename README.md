@@ -211,6 +211,17 @@
       </sub>
     </td>
   </tr>
+  
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=redux" width="65px" alt="Redux icon"/><br/>
+      <sub>
+        <b>
+          <pre>Redux</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
 </table>
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
@@ -232,14 +243,6 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
-      <sub>
-        <b>
-          <pre>Bootstrap 5</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=wordpress" width="65px" alt="Wordpress icon"/><br/>
       <sub>
         <b>
@@ -252,17 +255,6 @@
       <sub>
         <b>
           <pre>Java</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python icon"/><br/>
-      <sub>
-        <b>
-          <pre>Python</pre>
         </b>
       </sub>
     </td>
