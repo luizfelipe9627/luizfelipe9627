@@ -1,9 +1,5 @@
 ## Seja bem vindo(a) ao meu perfil. <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" height="30px" width="30px">
 
-<img align="right" src="https://visitor-badge.feriirawann.repl.co/?username=luizfelipe9627&repo=luizfelipe9627&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=%230077B5&contentType=svg" title="Visitas ao perfil" alt="Visitas">
-
-<br><br>
-
 <img align="center" width="100%" alt="Banner Animado do Github do Luiz" src="./images/wallpaper.apng" />
 
 ##
@@ -26,7 +22,7 @@
 
 <ul>
   <li>:man_student: &nbsp Cursando Análise e Desenvolvimento de Sistemas;</li>
-  <li>:books: &nbsp; Estudando Desenvolvimento Front-end com React e TypeScript;</li>
+  <li>:books: &nbsp; Estudando Desenvolvimento FullStack com foco em React.JS, TypeScript e Node.JS;</li>
   <li>:dart: &nbsp; Foco em TypeScript;</li>
   <li>:computer: &nbsp; Programar todos os dias é necessário;</li>
   <li>:heart: &nbsp; Amor por codar.</li>
@@ -218,6 +214,22 @@
       <sub>
         <b>
           <pre>Redux</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="Docker icon"/><br/>
+      <sub>
+        <b>
+          <pre>Docker</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express icon"/><br/>
+      <sub>
+        <b>
+          <pre>Express</pre>
         </b>
       </sub>
     </td>
