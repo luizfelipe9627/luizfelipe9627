@@ -1,8 +1,6 @@
 ## Seja bem vindo(a) ao meu perfil. <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" height="30px" width="30px">
 
-<img align="center" width="100%" alt="Banner Animado do Github do Luiz" src="./images/wallpaper.apng" />
-
-##
+<img align="center" width="100%" alt="Banner Animado do Github do Luiz" src="./images/wallpaper.gif" />
 
 ### :trophy: &nbsp;Meu status
 
