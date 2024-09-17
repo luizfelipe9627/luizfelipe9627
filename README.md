@@ -231,6 +231,24 @@
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="TailwindCSS icon"/><br/>
+      <sub>
+        <b>
+          <pre>TailwindCSS</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br/>
+      <sub>
+        <b>
+          <pre>Java</pre>
+        </b>
+      </sub>
+    </td>
   </tr>
 </table>
 
@@ -245,26 +263,10 @@
 <table align="right" height="255px">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br/>
-      <sub>
-        <b>
-          <pre>Tailwind</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=wordpress" width="65px" alt="Wordpress icon"/><br/>
       <sub>
         <b>
           <pre>Wordpress</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br/>
-      <sub>
-        <b>
-          <pre>Java</pre>
         </b>
       </sub>
     </td>
