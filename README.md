@@ -19,9 +19,9 @@
 <img align="right" src="https://luizfelipe9627-spotify-readme.vercel.app/api?theme=dark&scan=true" alt="Música que está tocando no Spotify do Luiz Felipe no momento" />
 
 <ul>
-  <li>:man_student: &nbsp Cursando Análise e Desenvolvimento de Sistemas;</li>
-  <li>:books: &nbsp; Estudando Desenvolvimento FullStack com foco em React.JS, TypeScript e Node.JS;</li>
-  <li>:dart: &nbsp; Foco em TypeScript;</li>
+  <li>:man_student: &nbsp Formado em Análise e Desenvolvimento de Sistemas;</li>
+  <li>:books: &nbsp; Estudando Desenvolvimento FullStack com foco em React.JS, TypeScript e Java;</li>
+  <li>:dart: &nbsp; Foco em Java;</li>
   <li>:computer: &nbsp; Programar todos os dias é necessário;</li>
   <li>:heart: &nbsp; Amor por codar.</li>
 </ul>
